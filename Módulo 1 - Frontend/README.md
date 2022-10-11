@@ -17,4 +17,13 @@ Recibir una notificación de cada demanda y al llegar se debe crear automáticam
 - Con respecto al administrador, se entiende que debe poder recibir una notificación cuando una nueva demanda llegue, y debe crearse un documento de Word de forma automática para continuar con el proceso. Debe poder ver el pago de las demandas y la cantidad de ingresos en un dashboard, actualizar el estado de la demanda y agregar comentarios.
 
 ### ***Modelo de negocio***
-![Modelo de negocio](./Módulo%201%20-%20Frontend/DiagramaAbogabot.png)
+![Modelo de negocio](./DiagramaAbogabot.png)
+
+Diagrama en PDF ---> [Diagrama Abogabot](./Diagrama%20de%20Abogabot.pdf)
+
+
+## 2. Buyer persona.
+
+## 3. Público objetivo.
+
+## 4. UX/UI.

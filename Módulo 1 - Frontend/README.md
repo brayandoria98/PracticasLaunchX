@@ -24,6 +24,8 @@ Diagrama en PDF ---> [Diagrama Abogabot](./Diagrama%20de%20Abogabot.pdf)
 
 ## 2. Buyer persona.
 
+![Buyer Persona](./BuyerPersona.png)
+
 ## 3. Público objetivo.
 
 ## 4. UX/UI.

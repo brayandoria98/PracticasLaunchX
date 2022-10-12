@@ -5,7 +5,7 @@
 
 - El usuario debe poder hacer lo siguiente:
 
-Crear una cuenta para así luego llenar un formulario con la demanda que quiere enviar. Luego de esto, ir a la página de pago y mostrar distintos métodos de pago. Con esto ya hecho, en su cuenta debe verse las demandas que hay y puede hacerle seguimiento y ver los comentarios del abogado. También que le llegue por correo electrónico cuando se actualice algo en su demanda. El usuario también pidió que los colores fueran azul marino y blanco pero que acepta sugerencias. Por último, que la página debe ser responsive, es decir, que se pueda ver bien tanto en PC como en móvil. 
+Crear una cuenta para así luego llenar un formulario con la demanda que quiere enviar. Luego de esto, ir a la página de pago y mostrar distintos métodos de pago. Con esto ya hecho, en su cuenta debe verse las demandas que hay, puede hacerle seguimiento y ver los comentarios del abogado. Además, que le llegue por correo electrónico cuando se actualice algo en su demanda. El usuario también pidió que los colores fueran azul marino y blanco pero que acepta sugerencias. Por último, que la página debe ser responsive, es decir, que se pueda ver bien tanto en PC como en móvil. 
 
 - El administrador debe poder hacer lo siguiente:
 

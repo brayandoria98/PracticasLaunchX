@@ -28,4 +28,6 @@ Diagrama en PDF ---> [Diagrama Abogabot](./Diagrama%20de%20Abogabot.pdf)
 
 ## 3. Público objetivo.
 
+![Público Objetivo](/.PúblicoObjetiva.jpg)
+
 ## 4. UX/UI.

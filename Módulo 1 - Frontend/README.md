@@ -19,9 +19,6 @@ Recibir una notificación de cada demanda y al llegar se debe crear automáticam
 ### ***Modelo de negocio***
 ![Modelo de negocio](./DiagramaAbogabot.png)
 
-Diagrama en PDF ---> [Diagrama Abogabot](./Diagrama%20de%20Abogabot.pdf)
-
-
 ## 2. Buyer persona.
 
 ![Buyer Persona](./BuyerPersona.png)

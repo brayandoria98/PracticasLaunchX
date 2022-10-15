@@ -28,3 +28,7 @@ Recibir una notificación de cada demanda y al llegar se debe crear automáticam
 ![Público Objetivo](./PúblicoObjetivo.jpg)
 
 ## 4. UX/UI.
+### UX (Wareframe).
+
+
+[Wareframe UX](./WireframeUXAbogabot.pdf)

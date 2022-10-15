@@ -29,6 +29,9 @@ Recibir una notificación de cada demanda y al llegar se debe crear automáticam
 
 ## 4. UX/UI.
 ### UX (Wareframe).
+![WareframeUX1](./Wareframe1.png)
+![WareframeUX2](./Wareframe2.png)
+![WareframeUX3](./Wareframe3.png)
 
 
-[Wareframe UX](./WireframeUXAbogabot.pdf)
+Wareframe en mejor calidad ----> [Wareframe UX](./WireframeUXAbogabot.pdf)

@@ -11,3 +11,14 @@ El logo siguiente también está en la carpeta de este módulo.
 #### Código de la práctica: [Tacos El Jefe](./TacosElJefe.html)
 
 ## 2. Mishi Pastelería
+
+Aquí se encuentra el código de la página de la pastelería, tanto para el cliente como para el pastelero.
+
+![Mishi Pasteleria](./MishiPasteleria.png)
+
+#### Código de la pastelería cliente: [Mishi Pasteleria Cliente](./MishiPasteleriaCliente.html)
+#### Código de la pastelería pastelero: [Mishi Pasteleria Pastelero](./MishiPasteleriaPastelero.html)
+
+
+
+

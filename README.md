@@ -1,4 +1,4 @@
-# Practicas Frontend - LaunchX
+# Prácticas Frontend - LaunchX
 Aquí estarán todas las prácticas de frontend del curso LaunchX LATAM realizadas por mí.
 Este repositorio dividiré por secciones las prácticas que se vayan haciendo de cada módulo.
 

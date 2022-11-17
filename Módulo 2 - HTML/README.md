@@ -9,8 +9,6 @@ Esta práctica se hizo en clase con ayuda del Mission Comander y le hice algunas
 El logo siguiente también está en la carpeta de este módulo.
 
 ![Tacos El Jefe](./img/TacosElJefe2.png)
-
-![Visualización de la página](
  
 #### Código de la práctica: [Tacos El Jefe](./TacosElJefe.html)
 #### Visualización de la página: [Tacos El Jefe](https://brayandoria98.github.io/PastelereriaYTacosElJefe/TacosElJefe.html)

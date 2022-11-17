@@ -6,7 +6,7 @@ Esta práctica se hizo en clase con ayuda del Mission Comander y le hice algunas
 
 El logo siguiente también está en la carpeta de este módulo.
 
-![Tacos El Jefe](./TacosElJefe2.png)
+![Tacos El Jefe](./img/TacosElJefe2.png)
  
 #### Código de la práctica: [Tacos El Jefe](./TacosElJefe.html)
 
@@ -14,7 +14,7 @@ El logo siguiente también está en la carpeta de este módulo.
 
 Aquí se encuentra el código de la página de la pastelería, tanto para el cliente como para el pastelero.
 
-![Mishi Pasteleria](./MishiPasteleria.png)
+![Mishi Pasteleria](./img/MishiPasteleria.png)
 
 #### Código de la pastelería cliente: [Mishi Pasteleria Cliente](./MishiPasteleriaCliente.html)
 #### Código de la pastelería pastelero: [Mishi Pasteleria Pastelero](./MishiPasteleriaPastelero.html)

@@ -1,0 +1,363 @@
+.Seccion5{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    padding-top: 6rem;
+    padding-left: 44rem;
+    padding-bottom: 3rem;
+    }
+    
+    .div27 { grid-area: 1 / 1 / 2 / 2; 
+    color: #1f3e72;
+    align-items: center;
+    font-weight: bold;
+    font-size: 25pt;
+    }
+    .div28 { grid-area: 2 / 1 / 3 / 2; 
+    color: #6d7b93;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 14pt;
+    margin-right: 5rem;
+    }
+
+.Seccion6{
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    padding-top: 2rem;
+    }
+    
+
+    .Subseccion3{
+        background-image: url(./img/enfermero2.jpg);
+        background-size: cover;
+        height: 500px;
+    }
+    
+    .Subseccion4 {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-content: center;
+        overflow: auto;
+        flex-direction: column;
+        padding-left: 7rem;
+        padding-right: 8rem;
+        padding-top: 2.7rem;
+    }
+
+        
+    .Subseccion4_1 {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        }
+        
+        .div29 { grid-area: 1 / 1 / 2 / 2; 
+        width: 20px;
+        }
+        .div30 { grid-area: 1 / 2 / 2 / 3;
+        }
+        .div31 { grid-area: 1 / 3 / 2 / 4; 
+        }
+
+    .Subseccion4_2 {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        }
+        
+        .div32 { grid-area: 1 / 1 / 2 / 2; }
+        .div33 { grid-area: 1 / 2 / 2 / 3; }
+        .div34 { grid-area: 1 / 3 / 2 / 4; }
+
+    .Subseccion4_3{
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        color: #6d7b93;
+        font-size: 10pt;
+        padding-bottom: 2rem;
+        }
+        
+        .div35 { grid-area: 1 / 1 / 2 / 2; }
+        .div36 { grid-area: 1 / 2 / 2 / 3; 
+        padding-right: 2rem;
+        }
+        .div37 { grid-area: 1 / 3 / 2 / 4; }
+
+    .Subseccion4_4 {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        }
+        
+        .div38 { grid-area: 1 / 1 / 2 / 2; }
+        .div39 { grid-area: 1 / 2 / 2 / 3; }
+        .div40 { grid-area: 1 / 3 / 2 / 4; }
+
+    .Subseccion4_5 {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        }
+        
+        .div41 { grid-area: 1 / 1 / 2 / 2; }
+        .div42 { grid-area: 1 / 2 / 2 / 3; }
+        .div43 { grid-area: 1 / 3 / 2 / 4; }
+
+    .Subseccion4_6 {
+        display: grid;
+        grid-template-columns: 50px 1fr 50px;
+        width: 100%;
+        grid-template-rows: 1fr;
+        }
+        
+        .div44 { grid-area: 1 / 1 / 2 / 2; }
+        .div45 { grid-area: 1 / 2 / 2 / 3; }
+        .div46 { grid-area: 1 / 3 / 2 / 4; }
+
+    .Subseccion4_1, .Subseccion4_2, .Subseccion4_4, .Subseccion4_5, .Subseccion4_6{
+    color: #1f3e72;
+    font-size: 12pt;
+    font-weight: bold;
+    }
+
+    .Subseccion4_1, .Subseccion4_3, .Subseccion4_4, .Subseccion4_5{
+    padding-bottom: 3.5rem;
+    }
+
+    .ImagenesSeccion6{
+        width: 20px;
+    }
+
+.Seccion7{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    padding-top: 9rem;
+    padding-left: 8rem;
+    padding-right: 1rem;
+    }
+
+.Seccion8{
+    display: grid;
+    grid-template-columns: 1fr 0.7fr;
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+}
+
+    .Subseccion5{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    }
+
+    .Subseccion5_1 {
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    height: 75%;
+    align-items: center;
+    }
+
+    .div47 { grid-area: 1 / 1 / 2 / 2; }
+    .div48 { grid-area: 2 / 1 / 3 / 2; }
+
+    .Subseccion5_2 {
+    display: grid;
+    width: 100%;
+    height: 75%;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 2rem;
+    }
+
+    .div49 { grid-area: 1 / 1 / 2 / 2; }
+    .div50 { grid-area: 2 / 1 / 3 / 2; }
+
+    .Subseccion5_3 {
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    height: 75%;
+    align-items: center;
+    padding-left: 1.5rem;
+    }
+
+    .div51 { grid-area: 1 / 1 / 2 / 2; }
+    .div52 { grid-area: 2 / 1 / 3 / 2; }
+
+    .Subseccion5_4 {
+    display: grid;
+    width: 100%;
+    justify-content: flex-start;
+    height: 75%;
+    align-items: center;
+    padding-left: 2rem;
+    }
+
+    .div53 { grid-area: 1 / 1 / 2 / 2; }
+    .div54 { grid-area: 2 / 1 / 3 / 2; }
+
+
+
+    .Subseccion6{
+    background-image: url(./img/enfermero4.jpg);
+    background-size: cover;
+    height: 500px;
+    }
+
+
+    .ImagenesSeccion8{
+        width: 30px;
+
+    }
+
+    .TituloSeccion8{
+        color: #1f3e72;
+        font-size: 18pt;
+        font-weight: bold;
+    }
+
+    .CuerpoSeccion8{
+        color: #6d7b93;
+        font-size: 10pt;
+        font-weight: bolder;
+    }
+
+    .BotonAfueraSeccion8{
+    display: flex;
+        align-items:center;
+        justify-content:center;
+    }
+
+    .BotonAdentroSeccion8V1{
+        color: #2d4dcb;
+        border-radius: 5px;
+        background: #f1f5ff;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    .BotonAdentroSeccion8V2{
+        color: #ffffff;
+        border-radius: 5px;
+        background: #2646c4;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+.Seccion9{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: #eef3ff;
+}
+
+    .Subseccion7{
+        display: grid;
+        grid-template-rows: 0.4fr 0.1fr;
+        padding-top: 3rem;
+        padding-left: 8rem;
+        padding-right: 23rem;
+        
+        }
+
+        .div55 { grid-area: 1 / 1 / 2 / 2; 
+        color: #2949c7;
+        font-size: 18pt;
+        font-weight: bolder;
+        }
+        .div56 { grid-area: 2 / 1 / 3 / 2; 
+        color: #6d7b93;
+        font-size: 10pt;
+        font-weight: bold;
+        }
+
+    .Subseccion8 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1.5fr 1.5fr 1.5fr 1.5fr;
+        padding-top: 3rem;
+        }
+        
+        .div57 { grid-area: 1 / 1 / 2 / 2; }
+        .div58 { grid-area: 2 / 1 / 3 / 2; }
+        .div59 { grid-area: 3 / 1 / 4 / 2; }
+        .div60 { grid-area: 4 / 1 / 5 / 2; }
+        .div61 { grid-area: 1 / 2 / 2 / 3; }
+        .div62 { grid-area: 2 / 2 / 3 / 3; }
+        .div63 { grid-area: 3 / 2 / 4 / 3; }
+        .div64 { grid-area: 4 / 2 / 5 / 3; }
+        .div65 { grid-area: 1 / 3 / 2 / 4; }
+        .div66 { grid-area: 2 / 3 / 3 / 4; }
+        .div67 { grid-area: 3 / 3 / 4 / 4; }
+        .div68 { grid-area: 4 / 3 / 5 / 4; }
+
+    .div57, .div61, .div65{
+        color: #1f3e72;
+        font-size: 16pt;
+        font-weight: bolder;
+        padding-bottom: 1rem;
+        }
+    
+    .div58, .div59, .div60, .div62, .div63, .div64, .div66, .div67, .div68{
+        color: #6d7b93;
+        font-size: 9pt;
+        font-weight: bolder;
+    }
+
+.Seccion10{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 2rem;
+    background: #eef3ff;
+    }
+
+    .Subseccion9{
+        color: #6d7b93;
+        font-size: 9pt;
+        font-weight: bolder;
+        padding-left: 7.5rem;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        
+    }
+
+    .Subseccion10{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding-left: 14rem;
+        padding-top: 1rem;
+    }
+
+    .div69 { grid-area: 1 / 1 / 2 / 2; }
+    .div70 { grid-area: 1 / 2 / 2 / 3; }
+
+    .div69, .div70{
+        color: #6d7b93;
+        font-size: 9pt;
+        font-weight: bolder;
+    }
+    
+    

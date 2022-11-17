@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mishi Pasteleria</title>
+</head>
+<body>
+    <header>
+        <h1>Mishi Pastelería, Showing love to those you love</h1>
+    </header>
+
+    <img src="./img/MishiPasteleria.png" alt="Logo de Mishi Pasteleria"/>
+
+    <section>
+        <h2>Menú</h2>
+        <h3>Sabores</h3>
+        <p>Puedes combinarlos algunos sabores a tu gusto, preguntanos</p>
+        <ul>
+            <li><b>Chocolate</b> .......................................... $10</li>
+            <li><b>Terciopelo Rojo (Red Velvet)</b> .......................................... $15</li>
+            <li><b>Vainilla</b> .......................................... $10</li>
+            <li><b>Limón</b> .......................................... $10</li>
+            <li><b>Arequipe (Dulce de leche)</b> .......................................... $15</li>
+            <li><b>Napolitano</b> .......................................... $20</li>
+        </ul>
+    
+        <h3>Adornos y decoraciones</h3>
+        <p>Puedes combinar algunos adornos a tu gusto, preguntanos</p>
+        <dl>
+            <dt><b>En Canasta</b> ......................... $5</dt>
+            <dd>- Especial para reuniones familiares de carácter religioso porque guardan un toque de elegancia y un diseño tranquilo</dd>
+            <dt><b>Naked</b> .............................. $5</dt>
+            <dd>- No llevan ningún tipo de cobertura, pero entre pisos puede estar acompañado de cremas pasteleraso</dd>
+            <dt><b>Drip cakes</b> ......................... $10</dt>
+            <dd>- Cobertura con una ganache, goteando por los bordes de la torta, acompañado de ingredientes y accesorios comestibles</dd>
+            <dt><b>Diseño de personajes</b> ............... $15</dt>
+            <dd>- Puede ser con imágenes o una figura en fondant</dd>
+        </dl>
+    </section>
+
+    <section>
+        <h3>Ubicación</h3>
+        <table>
+            <tr>
+                <th>Dirección</th>
+                <th>Horario</th>
+                <th>Teléfono</th>
+            </tr>
+            <tr>
+                <td><a href="https://goo.gl/maps/ZFHVPMdfAVsjxiYh9" target="_blank">Cl. 64 #6-29, Montería, Córdoba</a></td>
+                <td>L-S 8AM a 9PM</td>
+                <td>(57)(5) 7437812 </td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h3>Pedidos</h3>
+        <p>Haz tu pedido aquí</p>
+
+        <form action="">
+            
+            <p><b>¿De qué sabores quieres tu pastel?</b></p>
+            <input type="checkbox" id="Chocolate" name="Chocolate" value="Chocolate">
+            <label for="Chocolate">Chocolate</label>
+            <br>
+            <input type="checkbox" id="Terciopelo Rojo" name="Terciopelo Rojo" value="Terciopelo Rojo">
+            <label for="Terciopelo Rojo">Terciopelo Rojo</label>
+            <br>
+            <input type="checkbox" id="Vainilla" name="Vainilla" value="Vainilla">
+            <label for="Vainilla">Vainilla</label>
+            <br>
+            <input type="checkbox" id="Limón" name="Limón" value="Limón">
+            <label for="Limón">Limón</label>
+            <br>
+            <input type="checkbox" id="Arequipe" name="Arequipe" value="Arequipe">
+            <label for="Arequipe">Arequipe</label>
+            <br>
+            <input type="checkbox" id="Napolitano" name="Napolitano" value="Napolitano">
+            <label for="Napolitano">Napolitano</label>
+
+            <br><br>
+
+            <p><b>¿Qué adornos y decoraciones quieres?</b></p>
+            <input type="checkbox" id="En Canasta" name="En Canasta" value="En Canasta">
+            <label for="En Canasta">En Canasta</label>
+            <br>
+            <input type="checkbox" id="Naked" name="Naked" value="Naked">
+            <label for="Naked">Naked</label>
+            <br>
+            <input type="checkbox" id="Drip cakes" name="Drip cakes" value="Drip cakes">
+            <label for="Drip cakes">Drip cakes</label>
+            <br>
+            <input type="checkbox" id="Diseño de personajes" name="Diseño de personajes" value="Diseño de personajes">
+            <label for="Diseño de personajes">Diseño de personajes</label>
+            <br>
+            <br>
+
+            <p><b>Ahora los datos personales para hacer el delivery de tu pedido</b></p>
+
+            <label for="Nombre">Nombre:</label><br>
+            <input type="text" id="Nombre" name="Nombre" placeholder="¿Cómo te llamas?">
+            
+            <br><br>
+
+            <label for="Teléfono">Teléfono:</label><br>
+            <input type="text" id="Teléfono" name="Télefono" placeholder="¿Cuál es tu teléfono?">
+
+            <br><br>
+
+            <label for="Dirección">Dirección de envío:</label><br>
+            <input type="text" id="Dirección" name="Dirección" placeholder="¿Cuál es tu dirección?">
+
+            <br><br>
+
+            <label for="Correo electrónico">Correo electrónico de contacto:</label><br>
+            <input type="text" id="Correo electrónico" name="Correo electrónico" placeholder="¿Cuál es tu correo?">
+
+            <br><br>
+
+            <label for="Descripción">Descripción de cómo quieres el pastel:</label><br>
+            <input type="text" id="Descripción" name="Descripción" placeholder="¿Cómo quieres tu pastel?">
+
+            <button type="submit">Enviar pedido</button>
+
+            <br><br>
+
+        </form>
+
+    </section>
+
+</body>
+</html>

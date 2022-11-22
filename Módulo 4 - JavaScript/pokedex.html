@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokédex</title>
+    <link rel="icon" type="image/png" href="./img/pokeball-favicon.png">
+    <link rel="stylesheet" href="./pokedex.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,500&display=swap" rel="preload" as="style"
+          onload="this.rel='stylesheet'">
+</head>
+<body>
+    <div class="titulo">Pokédex</div>
+    <div class= "pokedex">
+        <div class="search">
+            <input type="text" placeholder="Dialga" id="pokeName" name="pokeName">
+            <button id="search" class="search-btn" onclick="fetchPokemon()">Encontrar Pokémon</button>
+        </div>
+        <div class="pokePhoto">
+            <img src="./img/pokeball.png" alt="Pokemon" id="pokeImg" class="image">
+        </div>
+        <div id="pokeName2"></div>
+
+        <div id="type" class="types-container"></div>
+
+        <div class="titulo-de-secciones">Habilidades del Pokémon</div>
+        <div class="pokeScreen" id="abilities"></div>
+
+        <div class="titulo-de-secciones">Estadísticas</div>
+        <div class="stats">
+            <div id="hp" class="statName">HP</div>
+            <div class="stat" id="hp-bar"></div>
+            <div id="attack" class="statName" >ATK</div>
+            <div class="stat" id="attack-bar"></div>
+            <div id="def" class="statName" >DEF</div>
+            <div class="stat" id="defense-bar"></div>
+            <div id="spd" class="statName">SPD</div>
+            <div class="stat" id="speed-bar"></div>
+        </div>
+
+        <div class="titulo-de-secciones">Movimientos</div>
+        <div id="moves" class="moves-container"></div>
+    </div>
+</body>
+<footer>
+    <script src="./pokedex.js"></script>
+</footer>
+</html>

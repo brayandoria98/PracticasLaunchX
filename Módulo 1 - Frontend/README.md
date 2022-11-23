@@ -17,28 +17,28 @@ Recibir una notificación de cada demanda y al llegar se debe crear automáticam
 - Con respecto al administrador, se entiende que debe poder recibir una notificación cuando una nueva demanda llegue, y debe crearse un documento de Word de forma automática para continuar con el proceso. Debe poder ver el pago de las demandas y la cantidad de ingresos en un dashboard, actualizar el estado de la demanda y agregar comentarios.
 
 ### ***Modelo de negocio***
-![Modelo de negocio](./DiagramaAbogabot.png)
+![Modelo de negocio](./img/DiagramaAbogabot.png)
 
 ## 2. Buyer persona.
 
-![Buyer Persona](./BuyerPersona.png)
+![Buyer Persona](./img/BuyerPersona.png)
 
 ## 3. Público objetivo.
 
-![Público Objetivo](./PúblicoObjetivo.jpg)
+![Público Objetivo](./img/PúblicoObjetivo.jpg)
 
 ## 4. UX/UI.
 ### UX (Wareframe).
-![WareframeUX1](./Wareframe1.png)
-![WareframeUX2](./Wareframe2.png)
-![WareframeUX3](./Wareframe3.png)
+![WareframeUX1](./img/Wareframe1.png)
+![WareframeUX2](./img/Wareframe2.png)
+![WareframeUX3](./img/Wareframe3.png)
 
 
 Wareframe en mejor calidad ---> [Wareframe UX](./WireframeUXAbogabot.pdf)
 
 ### UI.
-![UI1](./UI1.png)
-![UI2](./UI2.png)
-![UI3](./UI3.png)
+![UI1](./img/UI1.png)
+![UI2](./img/UI2.png)
+![UI3](./img/UI3.png)
 
 UI en mejor calidad ---> [UI](./AbogabotUI.pdf)
